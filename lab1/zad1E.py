@@ -48,5 +48,5 @@ def main():
 if __name__ == "__main__":
     main()
 
-# Poprosiłem chatgpt o wykonanie kodu. Zrobił to błyskawicznie oraz w bardzo jasny i udany sposób. Pętla jest lekką przesadą
-# ale nie przeszkadza w zrozumieniu kodu. 
+# Poprosiłem ChatGPT o wykonanie kodu. Zrobił to błyskawicznie, w bardzo podobny sposób. Przede wszystkim główną 
+# różnicą jest to, że bot zastosował pętlę przy analizie wyników oraz uniwersalną funckję do obliczania biorytmów.

@@ -44,5 +44,4 @@ def check_hapiness(value, name, days):
 
 cycle()
 
-# Całość zajęła mi około 30 minut. Najwięcej czasu zajęło mi zrozumienie działania funkcji check_hapiness.
-
+# Całość zajęła mi około 30 minut. Najwięcej czasu zajęło mi stworzenie działania funkcji check_hapiness.

@@ -50,5 +50,5 @@ def cycle():
 
 cycle()
 
-# Korzystałem z gemini, gdzie poprosiłem go o wystylizowanie kodu. Nie jestem zadowolony z efektu końcowego,
-# moim zdaniem zmienił go w sposób, który jest dla mnie przekombinowany i zbędnie utrudniony.
+# Poprosiłem Gemini aby wystylizował i poprawił kod. Zmiany przede wszystkim polegały na większym podziale
+# kodu na funkcje, dodaniu komentarzy, zmianie nazw zmiennych dodaniu formatowania do wyświetlanych wartości
