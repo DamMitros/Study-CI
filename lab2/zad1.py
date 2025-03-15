@@ -24,7 +24,7 @@ for column in numeric_columns:
 
 for column in numeric_columns:
     median = df[column].median()
-    invalid_data = (df[column] < 0) | (df[column] > 15) | df[column].isna() | (df[column] == ' ') | (df[column] == '-')
+    invalid_data = (df[column] <= 0) | (df[column] >= 15) | df[column].isna() | (df[column] == ' ') | (df[column] == '-')
     df.loc[invalid_data, column] = median
 
 df.to_csv('iris_corrected.csv', index=False)

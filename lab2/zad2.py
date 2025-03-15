@@ -8,6 +8,9 @@ X = pd.DataFrame(iris.data, columns=iris.feature_names)
 y = pd.Series(iris.target, name='FlowerType')
 print(X.head())
 
+print("Wartości własne dla każdej składowej PCA:")
+print(PCA(n_components=4).fit(iris.data).explained_variance_ratio_)
+
 pca_iris = PCA(n_components=2).fit(iris.data) 
 print(pca_iris)
 
