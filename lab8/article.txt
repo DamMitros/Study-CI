@@ -1,0 +1,51 @@
+How Spain powered back to life from unprecedented national blackout
+
+As life in Spain and Portugal stutters back to normal, the big questions are not just what went wrong but how to prevent such a full-scale power failure from happening again.
+It was not until 11:15 (09:15 GMT) on Tuesday, almost 23 hours after the system collapsed that Spain's electricity grid declared it was back to normal.
+The trains have started running again although some lines are suspended and most homes have got their power back.
+So how did it get back up and running and why did it take so long?
+For most of Monday, Spain was in chaos.
+The issue appears to relate to two separate connection problems in the south west within moments of each other and then a disconnection from the French network for almost an hour.
+Prime Minister Pedro Sánchez highlighted the sudden loss of 15 gigawatts of electricity at 12:33 on Monday, when about 60% of Spain's power generation suddenly vanished.
+
+Eduardo Prieto, the director of operations for the grid, Red Eléctrica, said the systems had been stable, until two "disconnection" incidents within seconds of each other in the south-west, where Spain has substantial solar generation.
+Only the Canary Islands, the Balearics and Ceuta and Melilla on the North African coast were unaffected.
+An increasing number of public figures are blaming a saturation of solar power and an over-reliance on renewable energy.
+Minutes before the outage, Spain was running on 60.64% solar photovoltaic generation, with 12% wind and 11.6% nuclear.
+
+However diversified and advanced Spain's energy mix is, the national power collapse at 12:35 on Monday required an enormous effort to get Spain back up and running.
+The initial focus was to get the northern and southern power generating regions working again, which grid operator Red Eléctrica said was key to "gradually re-energising the transmission grid as the generating units are connected".
+The risk lay in overloading the system by turning everything on at the same time and triggering another massive outage.
+So everything had to be carefully phased for what experts call a "black start" working out as a success.
+The initial focus was on hydro-electric plants, in particular pumped-storage plants with reservoirs full at this time of year and able to produce electricity fast from a standing start.
+Combined-cycle gas plants also played a significant part in repowering the grid, but four nuclear power reactors at Almaraz, Ascó and and Vandellós were automatically shut down by the outage, and three others were already offline anyway.
+
+Spain's neighbours France and Morocco also came to its aid.
+Morocco said 900MW of power had been transferred through two high-voltage lines that cross the Strait of Gibraltrar from Fardioua to Tarifa in southern Spain.
+French operator RTE said it had been "gradually transferring more electricity to the Spanish border" via its power lines supplying Catalonia in north-east Spain and the Basque country in the north-west.
+RTE said the Iberian network had been disconnected from 12:38 to 13:30 on Monday, when the 400kV line to Catalonia was restored. Within minutes, France had supplied 700MW and RTE said it was later able to increase that by up to 2,000 MW.
+Power was then eventually restored to Spain's electricity substations in the north, south and west of the peninsula.
+By 19:20 on Monday, the grid operator said more than a fifth of demand had been restored by way of Spain's own electricity generation and from France.
+Electricity provider Endesa said it had restored almost 3.5 million customers by 19:15 and had prioritised hospitals and other strategic infrastructure.
+Just over an hour later the head of Red Eléctrica boss Eduardo Prieto said about 9,200 MW of demand - about 35.1% - had been restored.
+That figure rose steadily to 61.35% by midnight on Monday and more than 99% by 07:00 on Tuesday.
+How massive power cut unfolded in Spain and Portugal
+
+Spain is only now beginning to count the cost. The CEOE bosses' organisation has estimated a €1.6bn hit on the economy.
+And the political blame game has already begun.
+The conservative head of the Madrid community, Isabel Díaz Ayuso, said the government's response had been slow and ineffective, while the leader of her People's Party Alberto Núñez Feijóo complained of a "lamentable" image of Spain being sent around the world.
+Despite all the problems, Spaniards were praised by the government for rising to the occasion and showing solidarity.
+Hospitals had back-up diesel-operated generators so they were able to keep critical care going.
+Spain's Guardia Civil police force said it had rescued 13,000 passengers trapped on trains.
+Residents in the southern town of Villanueva de Córdoba came to the aid of passengers stranded on a Ouigo train.
+Local police in Barcelona returned to the old ways, regulating traffic in the Plaça España because the lights were out.
+Passengers on the Barcelona metro had to walk to safety using the torches on their mobile phones when their trains became stuck in tunnels.
+A conference centre in Girona was converted into a 180-bed shelter for people stranded by rail disruptions.
+
+Although flights across the country were affected, airports operator Aena kept going throughout the disruption with the aid of generators.
+Phone batteries ran down, TVs were on the blink and for many Spaniards their only lifeline to the outside world was from a car or battery-operated radio, as radio stations soldiered on through the blackout.
+In Madrid there has been an urgent call for blood donations ahead of the big public holiday weekend.
+Pedro Sánchez is determined that lessons will be learned and such a crisis will not happen again.
+But energy expert Carlos Cagigal told Spanish TV there was a risk that it might, because Spain's infrastructure was simply not in a position to cope with all the renewable energy being produced.
+The power grid operator warned earlier this year of the risks of excessive renewable energy while closing nuclear plants.
+But a clip of its president Beatriz Corredor has gone viral from 2021, in which she insisted that Spain had "one of the safest and most advanced" electrical systems in the world and there was no reason to worry.
