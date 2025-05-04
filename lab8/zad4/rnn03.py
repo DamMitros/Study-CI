@@ -82,3 +82,16 @@ print_error(trainY, testY, train_predict, test_predict)
  
 #Plot result
 plot_result(trainY, testY, train_predict, test_predict)
+
+# 1. Wczytuje dane z pliku CSV i dzieli je na zbiór treningowy i testowy.
+# 2. Przygotowuje dane wejściowe i docelowe w odpowiednim formacie.
+# 3. Tworzy model RNN z jedną warstwą ukrytą i jedną warstwą gęstą.
+# 4. Trenuje model na zbiorze treningowym.
+# 5. Dokonuje prognoz na zbiorze treningowym i testowym.
+# 6. Oblicza i wyświetla błąd RMSE dla prognoz.
+# 7. Rysuje wykres porównujący rzeczywiste wartości z prognozami.
+
+# Sam model jest dobrze wytrenowany, odpowiednio przewiduje dane testowe i treningowe, jednak przy dużych
+# skokach liczby plam słonecznych model nie przewiduje ich dobrze.
+
+# Train RMSE: 0.061 RMSE, Test RMSE: 0.092 RMSE  => Model dobrze przewiduje dane testowe i treningowe jest blisko 0.

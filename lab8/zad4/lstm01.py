@@ -81,3 +81,17 @@ print_error(trainY, testY, train_predict, test_predict)
  
 #Plot result
 plot_result(trainY, testY, train_predict, test_predict)
+
+# 1. Zebranie danych
+# 2. Przygotowanie danych do modelu (X i Y)
+# 3. Stworzenie modelu LSTM (5 neuronów w warstwie ukrytej i 1 neuron w warstwie wyjściowej)
+# 4. Wytrenowanie modelu  w 20 epokach
+# 5. Predykcja na podstawie danych treningowych i testowych
+# 6. Obliczenie błędu RMSE na podstawie danych treningowych i testowych
+# 7. Narysowanie wykresu z danymi rzeczywistymi i przewidywanymi
+
+# Model LSTM działa podobnie jak RNN. Działa on sobie jednak lepiej.
+# LSTM jest lepszy w przypadku dużej ilości długich zależności, jest bardziej złożonych RNN.
+# LSTM ma specjalne mechanizmy zapamiętywania i zapominania.
+
+# Train RMSE: 0.061 RMSE, Test RMSE: 0.089 RMSE

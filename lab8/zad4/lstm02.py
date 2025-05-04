@@ -45,11 +45,11 @@ model = Sequential()
 model.add(LSTM(256, input_shape=(X.shape[1], X.shape[2])))
 model.add(Dropout(0.2))
 model.add(Dense(y.shape[1], activation='softmax'))
-#filename = "weights-improvement-03-2.7711.hdf5"
-#model.load_weights(filename)
+# filename = "weights-improvement-50-1.7950.keras"
+# model.load_weights(filename)
 model.compile(loss='categorical_crossentropy', optimizer='adam')
 # define the checkpoint
-filepath="weights-improvement-{epoch:02d}-{loss:.4f}.hdf5"
+filepath="weights-improvement1-{epoch:02d}-{loss:.4f}.keras"
 checkpoint = ModelCheckpoint(filepath, monitor='loss', verbose=1, save_best_only=True, mode='min')
 callbacks_list = [checkpoint]
 # fit the model
