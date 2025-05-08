@@ -29,7 +29,7 @@
 
 ## Podział na płcie
 ### Wpływ klasy na mężczyznę:
-Jako mężczyzna najłatwiej było przeżyć w 1 klasie (z około 8% wszystkich pasażerów - 2.5% przeżyło).
+Jako mężczyzna najłatwiej było przeżyć w 1 klasie (z około 8% wszystkich pasażerów - 2.5% przeżyło => 33% szansy).
 ```
 # 12                   (Sex_Male, Class_1st)                (Age_Adult)  0.079509    0.972222  1.022878
 # 51     (Sex_Male, Survived_Yes, Class_1st)                (Age_Adult)  0.025897    0.919355  0.967256
